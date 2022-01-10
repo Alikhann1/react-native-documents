@@ -1,0 +1,10 @@
+1. npm install -g expo-cli.
+2.expo init AwesomeProject.
+3.npm install @react-navigation/native.
+4.npm install react-native-screens react-native-safe-area-context.
+5.npm install @react-navigation/native-stack.
+6.npm install firebase.
+
+https://www.youtube.com/watch?v=ql4J6SpLXZA
+
+
